@@ -1,0 +1,7 @@
+node_modules
+dist
+nodemon.json
+access.log
+.vscode
+server.cert
+server.key
